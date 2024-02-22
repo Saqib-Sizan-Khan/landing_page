@@ -69,12 +69,13 @@ ul {
 }
 
 .container {
-    padding: 88px;
-    background-color: grey;
-    color: white;
     margin-right: 200px;
     margin-top: 48px;
-    width: 250px;
+}
+
+.first-img {
+    width: 410px;
+    height: 250px;
 }
 
 .second {
@@ -99,6 +100,12 @@ h1 {
     height: 160px;
     border-color: #3882f6;
     border-style: solid;
+}
+
+.box-image {
+    width: 160px;
+    height: 160px;
+    border-radius: 17px;
 }
 
 .subtext {
