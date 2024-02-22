@@ -77,6 +77,10 @@ ul {
     width: 250px;
 }
 
+.second {
+    padding: 0 240px;
+}
+
 h1 {
     text-align: center;
     font-weight: bold;
@@ -97,13 +101,26 @@ h1 {
     border-style: solid;
 }
 
-.second {
-    padding: 0 240px;
-}
-
 .subtext {
     text-align: center;
     padding-top: 4px;
     padding-bottom: 70px;
     width: 160px;
+}
+
+.third {
+    background-color: #e5e7eb;
+    padding: 90px 260px 40px;
+}
+
+.para {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+h3 {
+    text-align: end;
+    padding-right: 45px;
+    color: #1f2937;
 }
