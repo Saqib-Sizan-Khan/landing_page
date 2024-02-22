@@ -124,3 +124,35 @@ h3 {
     padding-right: 45px;
     color: #1f2937;
 }
+
+.innerBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    margin: 50px 200px;
+    padding: 30px 80px;
+    border-radius: 6px;
+    gap: 180px;
+}
+
+.blueBox-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.blueBox {
+    color: #f9faf8;
+}
+
+.innerBox button {
+    border-color: #f9faf8;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-width: 3px;
+    border-radius: 6px;
+    border-style: solid;
+    padding: 8px 18px;
+    font-size: 16px;
+}
